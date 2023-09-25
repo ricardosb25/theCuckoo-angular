@@ -1,15 +1,15 @@
 .small-card__container{
   border-bottom: solid snow 2px;
-  height: 125px;
-  width: 700px;
+  height: 150px;
+  width: 750px;
   display: flex;
   flex-direction: row;
   margin-bottom: 3%;
 }
 
 .small-card__photo > img{
-  height: 105%;
-  width: 105%;
+  height: 20vh;
+  width: 30vh;
 }
 
 .small-card__photo{
